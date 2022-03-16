@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<a href="https://github.com/Karllos-Marques/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiraiMindz&show_icons=true&hide_rank=false&hide_title=true&theme=nord" />
+</a>
 <!--
 **Karllos-Marques/Karllos-Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
